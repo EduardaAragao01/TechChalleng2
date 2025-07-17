@@ -1,0 +1,18 @@
+{
+    "name": "blogging-tech2",
+    "version": "1.0.0",
+    "description": "Criação do back-end de um blogging para o projeto do segundo TechChalleng",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "mongoose": "^5.12.3"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}
